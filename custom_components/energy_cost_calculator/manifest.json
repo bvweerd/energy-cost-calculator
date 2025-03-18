@@ -1,0 +1,10 @@
+{
+  "domain": "energy",
+  "name": "Energy Cost Calculator",
+  "documentation": "https://github.com/bvweerd/energy-cost-calculator",
+  "issue_tracker": "https://github.com/bvweerd/energy-cost-calculator/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@bvweerd"],
+  "requirements": []
+}
