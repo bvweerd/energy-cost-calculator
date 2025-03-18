@@ -1,7 +1,7 @@
 """Constants for Energy Cost Calculator."""
 # Base component constants
 NAME = "Energy Cost Calculator"
-DOMAIN = "energy"
+DOMAIN = "energy_cost_calculator"
 DOMAIN_DATA = f"{DOMAIN}_data"
 VERSION = "0.0.1"
 
